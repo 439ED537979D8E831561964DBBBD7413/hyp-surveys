@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: WC Surveys
- * Plugin URI:  https://github.com/hypericumimpex/wc-surveys
- * Description: <code><strong>WC Surveys</strong></code> allows adding a survey to your checkout page to learn more about your customers' habits!
+ * Plugin Name: HYP Surveys
+ * Plugin URI:  https://github.com/hypericumimpex/hyp-surveys
+ * Description: <code><strong>HYP Surveys</strong></code> allows adding a survey to your checkout page to learn more about your customers' habits!
  * Version: 1.0.11
  * Author: Romeo C.
  * Author URI: https://romeocovaci.com/
@@ -11,7 +11,7 @@
  * WC requires at least: 3.3.0
  * WC tested up to: 3.5.0
  * @author Romeo C.
- * @package WC Surveys
+ * @package HYP Surveys
  * @version 1.0.11
  */
 
