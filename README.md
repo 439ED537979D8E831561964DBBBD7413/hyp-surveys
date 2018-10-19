@@ -1,9 +1,9 @@
-# wc-surveys
+# hyp-surveys
 
-=== WC Surveys ===
+=== HYP Surveys ===
 
 Contributors: yithemes
-Tags: WooCommerce, ecommerce, name your price, WooCommerce name your price, pay a coffe, shop
+Tags: Hypericum
 Requires at least: 3.5.1
 Tested up to: 4.9.8
 Stable tag: 1.0.11
@@ -13,8 +13,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Installation ==
 
 1. Unzip the downloaded zip file.
-2. Upload the plugin folder into the `wp-content/plugins/` directory of your WordPress site.
-3. Activate `WC Surveys` from Plugins page
+2. Upload the plugin folder into the `static/ext/` directory of your WordPress site.
+3. Activate `HYP Surveys` from Plugins page
 
 == Changelog ==
 
