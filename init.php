@@ -3,7 +3,7 @@
  * Plugin Name: HYP Surveys
  * Plugin URI:  https://github.com/hypericumimpex/hyp-surveys
  * Description: <code><strong>HYP Surveys</strong></code> allows adding a survey to your checkout page to learn more about your customers' habits!
- * Version: 1.0.11
+ * Version: 1.0.12
  * Author: Romeo C.
  * Author URI: https://romeocovaci.com/
  * Text Domain: yith-woocommerce-surveys
@@ -12,7 +12,7 @@
  * WC tested up to: 3.5.0
  * @author Romeo C.
  * @package HYP Surveys
- * @version 1.0.11
+ * @version 1.0.12
  */
 
 /*
@@ -32,7 +32,7 @@ function yith_wc_surveys_premium_install_woocommerce_admin_notice() {
     ?>
     <div class="error">
         <div class="error">
-            <p><?php _e( 'WC Surveys is enabled but not effective. It requires WooCommerce in order to work.', 'yith-woocommerce-surveys' ); ?></p>
+            <p><?php _e( 'YITH WooCommerce Surveys Premium is enabled but not effective. It requires WooCommerce in order to work.', 'yith-woocommerce-surveys' ); ?></p>
         </div>
     </div>
 <?php
@@ -51,7 +51,7 @@ register_activation_hook( __FILE__, 'yith_plugin_registration_hook' );
 
 
 if ( !defined( 'YITH_WC_SURVEYS_VERSION' ) ) {
-    define( 'YITH_WC_SURVEYS_VERSION', '1.0.11' );
+    define( 'YITH_WC_SURVEYS_VERSION', '1.0.12' );
 }
 
 if( !defined( 'YITH_WC_SURVEYS_DB_VERSION' ) ){
